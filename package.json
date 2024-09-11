@@ -1,0 +1,26 @@
+{
+  "name": "nodebotcolegio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laionerleo/NodeBotColegio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laionerleo/NodeBotColegio/issues"
+  },
+  "homepage": "https://github.com/laionerleo/NodeBotColegio#readme",
+  "dependencies": {
+    "mysql2": "^3.11.0",
+    "pdfkit": "^0.15.0",
+    "puppeteer": "^23.2.1",
+    "whatsapp-web.js": "^1.25.0"
+  }
+}
